@@ -1,2 +1,4 @@
-api_key=	'9S1MQsjbVDdfA3dDvRNKocgal'
-api_secret='cDyaBDEJ0Ha3ebkkQ6oNhYn8JveCBnADIcNuzX7D6gmleQ8Fr4'
+client_key= '9S1MQsjbVDdfA3dDvRNKocgal'
+client_secret= 'cDyaBDEJ0Ha3ebkkQ6oNhYn8JveCBnADIcNuzX7D6gmleQ8Fr4'
+access_token = '959133594802409472-fWPE1qH4RXiiv0fLUN0OBjAn2Jd7YpJ'
+access_token_secret = 'zZfvhUc1hXv2G1C4FzxftJYeb0MNZc0hgruliNFZlvoWT'
